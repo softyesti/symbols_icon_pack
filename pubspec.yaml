@@ -3,7 +3,7 @@ description: "Flutter package that provides Symbol Icons. A file icon pack for c
 homepage: https://softyes.com.br
 repository: https://github.com/softyesti/symbols_icon_pack
 
-version: 0.1.0
+version: 0.2.0
 
 platforms:
   android:
@@ -31,6 +31,10 @@ dev_dependencies:
 
 flutter:
   fonts:
+    - family: SymbolsFileIcons
+      fonts:
+        - asset: assets/fonts/symbols_file_icons.ttf
     - family: SymbolsFolderIcons
       fonts:
         - asset: assets/fonts/symbols_folder_icons.ttf
+   
