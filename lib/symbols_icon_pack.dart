@@ -1,6 +1,4 @@
+/// Symbol Icons. A file icon pack for code editors.
+library symbols_icon_pack;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'symbols_folder_icons.dart' show SymbolsFolderIcons;

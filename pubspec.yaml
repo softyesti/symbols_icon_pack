@@ -28,3 +28,9 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   very_good_analysis: ^6.0.0
   icon_generator: ^4.0.3
+
+flutter:
+  fonts:
+    - family: SymbolsFolderIcons
+      fonts:
+        - asset: assets/fonts/symbols_folder_icons.ttf
