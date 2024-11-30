@@ -1,39 +1,24 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<img width="100" height="100" src="./readme/logo.png" alt="app logo">
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+# Symbols Icon Pack
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+Flutter package that provides Symbol Icons. A file icon pack for code editors. Made from the [Symbols - File Icons](https://www.figma.com/file/HYLMyRbIdSbIJQlqnd9pSN/Symbols---File-Icons?node-id=20521%3A84115&t=PyBzZOlVG5TXyEdx-1).
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Big thanks to [miguelsolorio](https://github.com/miguelsolorio) the creators of this awesome icon pack for [Visual Studio Code](https://github.com/miguelsolorio/vscode-symbols)!
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+* Coming soon
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+* Coming soon
 
-```dart
-const like = 'sample';
-```
+## Screenshots
 
-## Additional information
+* Coming soon
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+## Credits
+
+* SoftYes TI [\<softyes.com.br\>](https://softyes.com.br)
+* João Sereia [\<joao.sereia@softyes.com.br\>](mailto:joao.sereia@softyes.com.br)
