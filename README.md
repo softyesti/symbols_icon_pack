@@ -8,7 +8,7 @@ Big thanks to [miguelsolorio](https://github.com/miguelsolorio) the creators of 
 
 ## Features
 
-* Coming soon
+* Folder icons (74 items)
 
 ## Usage
 
