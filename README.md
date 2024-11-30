@@ -1,4 +1,4 @@
-<img width="100" height="100" src="./readme/logo.png" alt="app logo">
+<img width="100" height="100" src="./assets/logo.png" alt="app logo">
 
 # Symbols Icon Pack
 
