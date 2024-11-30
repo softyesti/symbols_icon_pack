@@ -12,11 +12,32 @@ Big thanks to [miguelsolorio](https://github.com/miguelsolorio) the creators of 
 
 ## Usage
 
-* Coming soon
+```dart
+import 'package:flutter/material.dart';
+import 'package:symbols_icon_pack/symbols_icon_pack.dart';
+
+class IconWidget extends StatelessWidget {
+  const IconWidget();
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(SymbolsFolderIcons.folderIos),
+          const SizedBox(height: 8),
+          Text('Folder IOS'),
+        ],
+      ),
+    );
+  }
+}
+```
 
 ## Screenshots
 
-* Coming soon
+![Example App](./assets/screenshots/image.png)
 
 ## Credits
 

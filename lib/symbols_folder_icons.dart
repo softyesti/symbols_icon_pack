@@ -4,9 +4,8 @@ import 'package:flutter/widgets.dart';
 
 @immutable
 class _SymbolsFolderIconsData extends IconData {
-  const _SymbolsFolderIconsData(int codePoint)
+  const _SymbolsFolderIconsData(super.codePoint)
       : super(
-          codePoint,
           fontFamily: 'SymbolsFolderIcons',
           fontPackage: 'symbols_icon_pack',
         );
